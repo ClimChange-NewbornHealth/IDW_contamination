@@ -1,5 +1,17 @@
 ## From monitors to municipalities: assigning air pollution exposure in Chile using IDW
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub watchers](https://img.shields.io/github/watchers/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub forks](https://img.shields.io/github/forks/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub contributors](https://img.shields.io/github/contributors/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub last commit](https://img.shields.io/github/last-commit/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub language count](https://img.shields.io/github/languages/count/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub top language](https://img.shields.io/github/languages/top/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub License](https://img.shields.io/github/license/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/ClimChange-NewbornHealth/IDW_contamination)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ClimChange-NewbornHealth/IDW_contamination)
+
 :mailbox_with_mail: Estela Blanco (<estela.blanco@uc.cl>) -  **Principal Investigator**
 
 :paperclip: Felipe Cornejo -  **Principal Investigator**
@@ -99,7 +111,7 @@ install.packages(c(
 
 ### Notes
 
-- This README structure is inspired by the project “From the Atacama to Patagonia: understanding the effects of extreme temperatures on birth weight across climate regions in Chile,” available here: [CIIIA-ClimateBirthWeightAnalysis](https://github.com/ClimChange-NewbornHealth/CIIIA-ClimateBirthWeightAnalysis).
+- This README structure is inspired by the project “From the Atacama to Patagonia: understanding the effects of extreme temperatures on birth weight across climate regions in Chile,” available here: [IDW_contamination](https://github.com/ClimChange-NewbornHealth/IDW_contamination).
 
 ### License
 
